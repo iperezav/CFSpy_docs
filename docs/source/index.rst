@@ -13,14 +13,12 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents: 
 
-   introduction
-   getting-started
-   api-reference
-   tutorials
-   contributing
-   faq
+   /pages/usage/introduction
+   /pages/usage/getting-started
+   /pages/examples/examples
+   /pages/usage/contributing
 
 Welcome to the documentation for **CFSpy**.
 
