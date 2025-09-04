@@ -1,2 +1,4 @@
+.. _usage-contributing:
+
 Contributing
 ############
