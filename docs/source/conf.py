@@ -7,10 +7,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'cfspy_docs'
+project = 'CFSpy'
 copyright = '2025, Ivan Perez Avellaneda'
 author = 'Ivan Perez Avellaneda'
-release = '1.0'
+release = '1.2.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
