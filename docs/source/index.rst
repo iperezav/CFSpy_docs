@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-cfspy_docs documentation
+CFSpy Documentation
 ========================
 
 Add your content using ``reStructuredText`` syntax. See the
@@ -15,3 +15,13 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
+   getting-started
+   api-reference
+   tutorials
+   contributing
+   faq
+
+Welcome to the documentation for **CFSpy**.
+
+This documentation provides a comprehensive guide to using and contributing to the project.
