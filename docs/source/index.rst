@@ -12,13 +12,13 @@ Welcome to the documentation of the **CFSpy** Python package.
 and their applications in control and reachability theory.
 This documentation provides a comprehensive guide to using and contributing to the project.
 
-It provides the following functionalities:
+The package provides the following functionalities:
 
 - The list of iterated integrals indexed by words of a certain length or less.
 - The list of Lie derivatives indexed by words of a certain length or less.
 - A single iterated integral indexed by a given word.
 - A single Lie derivative indexed by a given word.
-- The symbolic polinomial that represents the Chen-Fliess series for a constant input.
+- The symbolic polynomial that represents the Chen-Fliess series for a constant input.
 
 Contents
 --------

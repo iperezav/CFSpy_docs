@@ -10,7 +10,7 @@ functionality of this package. Below are some guidelines to help you get started
 How to Contribute
 -----------------
 
-1. **Fork the Repository**: Start by forking the CFSpy repository on GitHub <https://github.com/iperezav/CFSpy>
+1. **Fork the Repository**: Start by forking the CFSpy repository on `GitHub <https://github.com/iperezav/CFSpy>`_
     
 to your own account.
 2. **Clone Your Fork**: Clone your forked repository to your local machine using:

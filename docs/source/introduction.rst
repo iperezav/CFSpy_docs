@@ -22,3 +22,9 @@ The Chen-Fliess series has the form:
     F_c[u](t) = \sum_{\eta \in X^*} (c, \eta) E_{\eta}[u](t)
     \end{eqnarray}
 
+Here, :math:`X^*` is the set of all words over the alphabet 
+:math:`X = \{x_0, \ldots, x_m\}`, :math:`(c, \eta)` is the coefficient corresponding to the word 
+:math:`\eta` in the generating series :math:`c`, and :math:`E_{\eta}[u](t)` is the iterated integral
+corresponding to the word :math:`\eta` and the input function :math:`u`.
+The Chen-Fliess series represents the output of the system when 
+certain conditions are met. 
