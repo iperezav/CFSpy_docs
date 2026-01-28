@@ -115,7 +115,7 @@ The associated iterated integral is
 ## Practical use and truncation
 
 
-In applications, the infinite series in [1](#eq-cfs) is truncated at some depth $N$.
+In applications, the infinite series is truncated at some depth $N$.
 Under analyticity assumptions, the truncated series converges uniformly on compact
 time intervals for sufficiently small inputs. The truncation depth controls the
 accuracy of the approximation, and **CFSpy** provides tools to study
