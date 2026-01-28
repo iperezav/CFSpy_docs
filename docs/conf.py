@@ -41,3 +41,16 @@ nitpicky = False
 rst_epilog = """
 .. |project| replace:: CFSpy
 """
+
+
+mermaid_version = "latest"
+mermaid_init_js = """
+mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default',
+    flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true
+    }
+});
+"""
