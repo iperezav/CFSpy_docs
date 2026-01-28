@@ -39,9 +39,9 @@ integrals of the input.
 
 Formally:
 
-$$
+```{math}
     F_c[u](t) = \sum_{\eta \in X^*} (c,\eta)\, E_\eta[u](t),
-$$
+```
 
 where:
 
