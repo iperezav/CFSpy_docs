@@ -1,6 +1,7 @@
-jupyter-book
+jupyter-book<1.0
 matplotlib
 numpy
+sphinx>=4.0
 sphinx-inline-tabs
 sphinx-examples
 sphinx-proof
