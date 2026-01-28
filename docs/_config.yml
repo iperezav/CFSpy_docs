@@ -95,3 +95,5 @@ sphinx:
   recursive_update          : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
   config:
     html_theme: sphinx_book_theme
+    myst_fence_as_directive:
+      - mermaid
