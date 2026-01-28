@@ -28,6 +28,7 @@ CFSpy
 
    </div>
 
+
 Welcome to the documentation of the CFSpy Python package.
 
 Overview
@@ -74,10 +75,10 @@ Why Python?
 
 CFSpy is written in Python to leverage:
 
-- **High performance**: JIT compilation and type specialization enable tight inner loops for iterated integrals and Lie derivatives.
-- **Multiple dispatch**: Natural expression of different system types, vector field representations, and numeric backends.
-- **Symbolic–numeric synergy**: Seamless integration with Symbolics.jl for symbolic Lie derivatives and LinearAlgebra for efficient evaluation.
-- **Interactive workflows**: Notebooks and REPL‑driven exploration make it easy to prototype, visualize, and benchmark Chen–Fliess expansions.
+- **High performance**: Vectorized NumPy kernels, and efficient array operations enable fast computation of iterated integrals and Lie derivatives..
+- **Symbolic–numeric synergy**: Tight integration with SymPy for symbolic Lie derivatives and NumPy/SciPy for efficient numeric evaluation enables smooth transitions between symbolic expressions and high‑performance computation.
+- **Interactive workflows**: - Python’s notebook ecosystem (Jupyter, IPython) supports rapid prototyping, visualization, and benchmarking of Chen–Fliess expansions in an intuitive, experiment‑driven workflow.
+
 
 
 Citing this package
