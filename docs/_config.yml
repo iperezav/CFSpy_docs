@@ -9,7 +9,7 @@ title                       : CFSpy  # The title of the book. Will be placed in 
 author                      : Ivan Perez Avellaneda  # The author of the book
 copyright                   : "2026"  # Copyright year to be placed in the footer
 logo                        : ""  # A path to the book logo
-root                        : readme.rst  # Add this line - use 'readme' or 'README' depending on your actual filename
+root                        : README.rst  # Add this line - use 'readme' or 'README' depending on your actual filename
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 # Auto-exclude files not in the toc

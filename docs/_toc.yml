@@ -1,6 +1,6 @@
 # In _toc.yml
 format: jb-book
-root: readme
+root: README.rst
 chapters:
 - file: content/Introduction
 - file: content/Getting-started
