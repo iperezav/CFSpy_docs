@@ -1,0 +1,8 @@
+# In _toc.yml
+format: jb-book
+root: readme
+chapters:
+- file: content/Introduction
+- file: content/Getting-started
+- file: content/Examples
+- file: content/Contributing
